@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @JapmanSinghKohli
 - 🌱 I’m currently learning resources for front end development (HTML, CSS, JS)
 - 💞️ I’m looking to collaborate on (nothing so far but open)
-- 📫 How to reach me - jkohli@ucdavis.edu
+- 📫 How to reach me - jkohli782@gmail.com
+
+
 
 <!---
 buzzshocker/buzzshocker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
